@@ -1,0 +1,37 @@
+p {
+  color: red; // color red the paragraphtexts
+}
+
+html {
+  font-size: 10px; // 10 pixels
+  font-family: "Open Sans", sans-serif; //Open Sans font
+} // change for all html
+
+h1{
+  clor: red;
+} // change for all h1
+
+.main-title{ // the . change all the attributes in main-title
+  //font-family: "Open Sans", sans-serif;
+  color: red;
+} // for class
+
+#main-title{
+  color: red;
+  text-align:center; // align for text center
+} // for id
+
+img{ // algin the image to center
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+}
+#title-block{ //title-blocks
+  background-color: red;
+  padding: 10px 10px 10px 10px; //gapping 10 pixels
+}
+ol{
+  text-align:center; // only the text centered not the number
+  display: table; // make everything center
+  margin: 0 auto;
+}

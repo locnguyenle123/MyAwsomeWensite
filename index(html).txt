@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html> //root tag: all the code within the block are html
+       //tag: tell the browser what type of information going in
+<head> //header
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>LocNguyen</title> //title of the page
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  // <div id=""> <h1 class="name">(text)</h1> </div>
+  // <h1 class="name">(text)</h1> heading (class= for identify)
+  // class = collection of items => use id=" "
+  Hello world // text, can change to whatever
+  // <p> (texts go here) </p> skip to next line
+  // <b> (texts) </b> bold the texts
+  // <img src= "link of pic"
+  // width = #
+  // height = #> src = source (describe the image link "copy link address" or file)
+  // <!-- text !--> comments
+  // <ul> (ul = list of items unorder) <ol> </ol> (order 1,2,3)
+  //   <li></li> (li = list items)
+  // </ul>
+  //<a href="link of website">(text) </a> Link a link to a   
+  // target="_blank" = new tab, wesbite (windows tab + . tab =   
+  // emojis)
+  //<p style="text-align:center"> (links) </p> make links center
+  <script src="script.js"></script> // extra can delete
+</body>
+
+</html> //scopre is closing "/", closing of root tag
